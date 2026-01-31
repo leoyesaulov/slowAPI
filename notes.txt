@@ -1,0 +1,7 @@
+Objective: implement usable REST API framework for Python (inspired by FastAPI). From scratch, no copy-paste from existing solutions, no AI-generated code.
+The main goal of this project is to show off I am able to gain skills and knowledge, and basically have fun.
+
+First thought on the implementation: basically recv on a single port, then parse the request -> how are http's built?
+then process and send back.
+
+MVP: a server that is able to parse request and call an appropriate function
